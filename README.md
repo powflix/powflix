@@ -1,2 +1,4 @@
-# powflix
-Official website of Powflix Inc.
+# Powflix
+
+Powflix Website is Coming Soon. Visit: https://powflix.live
+
