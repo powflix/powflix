@@ -1,4 +1,4 @@
 # Powflix
 
-Powflix Website is Coming Soon. Visit: https://powflix.live
+Project is under development. Visit: http://powflix.live
 
